@@ -1,6 +1,4 @@
-# Systems-Analysis-NU
-
-##Prioritize rapidly scalable methane reductions in efforts to mitigate climate change
+# Prioritize rapidly scalable methane reductions in efforts to mitigate climate change
 
 Jennifer B. Dunn (1), Santiago D. Salas (1), Qining Chen (2), David T. Allen (2)
 
