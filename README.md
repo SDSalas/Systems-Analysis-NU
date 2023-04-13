@@ -2,7 +2,7 @@
 
 For more information about this work you can access to the following link: https://link.springer.com/article/10.1007/s10098-023-02521-3
 
-[![Video](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10098-023-02521-3/MediaObjects/10098_2023_2521_Figa_HTML.png?as=webp | width=100)](https://link.springer.com/article/10.1007/s10098-023-02521-3)
+[![Video](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10098-023-02521-3/MediaObjects/10098_2023_2521_Figa_HTML.png?as=webp)](https://link.springer.com/article/10.1007/s10098-023-02521-3)
 
 If using this information, please use the following citation:
 
