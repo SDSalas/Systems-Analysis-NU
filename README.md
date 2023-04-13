@@ -6,11 +6,11 @@ For more information about this work you can access to the following link: https
 
 If using this information, please use the following citation:
 
-**MLA Style**
+**MLA Style:**
 Dunn, Jennifer B., et al. "Prioritize rapidly scalable methane reductions in efforts to mitigate climate change." Clean Technologies and Environmental Policy (2023): 1-5.
 
-**APA Style**
+**APA Style:**
 Dunn, J. B., Salas, S. D., Chen, Q., & Allen, D. T. (2023). Prioritize rapidly scalable methane reductions in efforts to mitigate climate change. Clean Technologies and Environmental Policy, 1-5.
 
-**Chicago Style**
+**Chicago Style:**
 Dunn, Jennifer B., Santiago D. Salas, Qining Chen, and David T. Allen. "Prioritize rapidly scalable methane reductions in efforts to mitigate climate change." Clean Technologies and Environmental Policy (2023): 1-5.
